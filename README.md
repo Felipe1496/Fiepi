@@ -1,4 +1,4 @@
-<h1 align="center">Fiepi</h1>
+<h1 align="center">Finapi</h1>
 
 ## Requisitos
 
